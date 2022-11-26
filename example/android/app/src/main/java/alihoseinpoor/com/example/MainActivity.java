@@ -1,4 +1,4 @@
-package alihoseinpoor.com.open_settings_example;
+package alihoseinpoor.com.example;
 
 import io.flutter.embedding.android.FlutterActivity;
 
